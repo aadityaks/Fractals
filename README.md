@@ -1,2 +1,2 @@
 # Fractals
-This repository contains some of the fractal creations in p5js
+This repository contains some of the fractal creations in p5js. It is hosted at https://thunderinfy.github.io/Fractals/
