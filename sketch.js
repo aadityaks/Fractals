@@ -90,10 +90,10 @@ function setup() {
 	let k = new KochCurve(width/2,height/2,height/2.1);
 	k.display();
 
-	let k2 = new KochCurve(width/5,2*height/5,height/4);
+	let k2 = new KochCurve(width/6,2*height/5,height/4);
 	k2.display();
 
-	let k3 = new KochCurve(4*width/5,2*height/5,height/4);
+	let k3 = new KochCurve(5*width/6,2*height/5,height/4);
 	k3.display();
 	
 	for(let i=0;i<5;i++){
